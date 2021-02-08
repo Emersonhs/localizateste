@@ -6,4 +6,3 @@ D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\bin\Debug\netstandard2.0\
 D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\bin\Debug\netstandard2.0\Localiza.Model.pdb
 D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\obj\Debug\netstandard2.0\Localiza.Model.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\obj\Debug\netstandard2.0\Localiza.Model.pdb
-D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\obj\Debug\netstandard2.0\Localiza.Model.csprojAssemblyReference.cache
