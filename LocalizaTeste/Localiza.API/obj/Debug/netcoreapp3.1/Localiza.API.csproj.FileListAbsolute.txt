@@ -11,15 +11,11 @@ D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Loc
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Localiza.API.runtimeconfig.dev.json
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Localiza.API.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Localiza.API.pdb
-D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
-D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Localiza.BLL.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.API\bin\Debug\netcoreapp3.1\Localiza.Model.dll
