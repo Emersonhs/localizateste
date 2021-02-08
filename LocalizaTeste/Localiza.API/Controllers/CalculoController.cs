@@ -2,6 +2,7 @@
 using Localiza.BLL;
 using Localiza.Model;
 using Microsoft.AspNetCore.Mvc;
+using System.Net;
 
 namespace Localiza.web.Controllers
 {
@@ -13,9 +14,17 @@ namespace Localiza.web.Controllers
         [Route("todosdivisores")]
         public ResultadoCalculo Index(int numero)
         {
-            Calcular calc = new Calcular();
-            var result = calc.TodosDivisores(numero);
-            return result;
+            try
+            {
+                Calcular calc = new Calcular();
+                var result = calc.TodosDivisores(numero);
+                result.statusCode = HttpStatusCode.OK;
+                return result;
+            }
+            catch (System.Exception ex)
+            {
+                return new ResultadoCalculo() { statusCode = HttpStatusCode.BadRequest, mensagem = ex.Message };
+            }
         }
     }
 }

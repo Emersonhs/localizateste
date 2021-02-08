@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 
 namespace Localiza.Model
 {
-    public class ResultadoCalculo
+    public class ResultadoCalculo : ErroStatus
     {
         public List<int> Divisores { get; set; }
 

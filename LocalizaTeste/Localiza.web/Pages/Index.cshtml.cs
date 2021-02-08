@@ -31,12 +31,18 @@ namespace Localiza.web.Pages
         [HttpPost]
         public IActionResult OnPost()
         {
-            calcular = new Calcular();
-            this.VmDivisores.resultadoCalculo  = calcular.TodosDivisores(this.VmDivisores.Numero);
-            this.VmDivisores.DivisoresTostring();
-            this.VmDivisores.primosTostring();
+            try
+            {
+                calcular = new Calcular();
+                this.VmDivisores.resultadoCalculo = calcular.TodosDivisores(this.VmDivisores.Numero);
+                this.VmDivisores.DivisoresTostring();
+                this.VmDivisores.primosTostring();
+            }
+            catch (Exception ex)
+            {
 
-
+                RedirectToAction("Error");
+            }
             return Page();
         }
 
