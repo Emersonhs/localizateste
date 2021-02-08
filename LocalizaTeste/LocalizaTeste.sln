@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalizaTeste", "LocalizaTeste\LocalizaTeste.csproj", "{901366DB-CA2D-4CF8-9F92-5032CF8DC914}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Localiza.web", "Localiza.web\Localiza.web.csproj", "{AD5F8B50-70D8-4E21-8298-0CC6A7143019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901366DB-CA2D-4CF8-9F92-5032CF8DC914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901366DB-CA2D-4CF8-9F92-5032CF8DC914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901366DB-CA2D-4CF8-9F92-5032CF8DC914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901366DB-CA2D-4CF8-9F92-5032CF8DC914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5F8B50-70D8-4E21-8298-0CC6A7143019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5F8B50-70D8-4E21-8298-0CC6A7143019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5F8B50-70D8-4E21-8298-0CC6A7143019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5F8B50-70D8-4E21-8298-0CC6A7143019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7A7C07-AF7A-4E2A-9A3B-DACABE0B6F61}
+	EndGlobalSection
+EndGlobal
