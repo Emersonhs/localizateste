@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vprm2nurwkM6WLJjpjEFyrZsujAF+UMpzO7nNfv6yagJMclYTsmM6soO+0H6HRhbqczL+oUQl6PSzIUsWKDeog==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\localizateste\\LocalizaTeste\\Localiza.BLL\\Localiza.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emerson\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\emerson\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\emerson\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,40 @@
+﻿@page
+@model CalcularModel
+
+<!DOCTYPE html>
+
+<div class="container">
+    <div class="row">
+        <div>
+            @*<partial name="_MenuManager" />*@
+        </div>
+    </div>
+    <div class="row">
+        @*<input type="hidden" asp-for="Calculo.Calculo">
+            <input type="hidden" asp-for="DadosCartao.UserId">*@
+
+        <form method="post">
+
+            <div class="form-group col-lg-3">
+                <label asp-for="VmDivisores.Numero"></label>
+                <input asp-for="VmDivisores.Numero" class="le-input form-control-lg" />
+            </div>
+            <div class="row"></div>
+            <div class="form-group col-lg-8">
+                <label asp-for="VmDivisores.StrDivisores"></label>
+                <input asp-for="VmDivisores.StrDivisores" value="@Model.VmDivisores.StrDivisores" class="le-input form-control-lg" readonly="readonly" />
+
+            </div>
+            <div class="row"></div>
+            <div class="form-group col-lg-8">
+                <label asp-for="VmDivisores.StrPrimos"></label>
+                <input asp-for="VmDivisores.StrPrimos" value="@Model.VmDivisores.StrPrimos" class="le-input form-control-lg" readonly="readonly" />
+            </div>
+            <div class="row"></div>
+            <div class="buttons-holder">
+                <button type="submit" class="le-button huge">Calcular</button>
+            </div>
+
+        </form>
+    </div>
+</div>

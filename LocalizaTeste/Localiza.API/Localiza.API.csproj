@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<UseAppHost>false</UseAppHost>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<DocumentationFile>Localiza.API.xml</DocumentationFile>
+		<GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.PlatformAbstractions" Version="1.1.0" />
+		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.0.2" />
+		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.0.2" />
+		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.0.2" />
+		<PackageReference Include="Swashbuckle.Core" Version="5.6.0" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<Folder Include="Controllers\" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<ProjectReference Include="..\Localiza.BLL\Localiza.BLL.csproj" />
+		<ProjectReference Include="..\Localiza.Model\Localiza.Model.csproj" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+	  <None Update="Localiza.API.xml">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
+</Project>

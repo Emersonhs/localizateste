@@ -1,0 +1,9 @@
+D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\obj\Debug\netstandard2.0\Localiza.Model.AssemblyInfoInputs.cache
+D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\obj\Debug\netstandard2.0\Localiza.Model.AssemblyInfo.cs
+D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\obj\Debug\netstandard2.0\Localiza.Model.csproj.CoreCompileInputs.cache
+D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\bin\Debug\netstandard2.0\Localiza.Model.deps.json
+D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\bin\Debug\netstandard2.0\Localiza.Model.dll
+D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\bin\Debug\netstandard2.0\Localiza.Model.pdb
+D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\obj\Debug\netstandard2.0\Localiza.Model.dll
+D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\obj\Debug\netstandard2.0\Localiza.Model.pdb
+D:\Projetos\localizateste\LocalizaTeste\Localiza.Model\obj\Debug\netstandard2.0\Localiza.Model.csprojAssemblyReference.cache

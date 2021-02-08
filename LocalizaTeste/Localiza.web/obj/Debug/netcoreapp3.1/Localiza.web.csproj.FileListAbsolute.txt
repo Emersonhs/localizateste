@@ -43,5 +43,9 @@ D:\Projetos\localizateste\LocalizaTeste\Localiza.web\bin\Debug\netcoreapp3.1\Swa
 D:\Projetos\localizateste\LocalizaTeste\Localiza.web\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
 D:\Projetos\localizateste\LocalizaTeste\Localiza.web\obj\Debug\netcoreapp3.1\Localiza.web.MvcApplicationPartsAssemblyInfo.cs
 D:\Projetos\localizateste\LocalizaTeste\Localiza.web\obj\Debug\netcoreapp3.1\Localiza.web.csprojAssemblyReference.cache
-D:\Projetos\localizateste\LocalizaTeste\Localiza.web\obj\Debug\netcoreapp3.1\Razor\Pages\Calcular.cshtml.g.cs
-D:\Projetos\localizateste\LocalizaTeste\Localiza.web\bin\Debug\netcoreapp3.1\Localiza.web.xml
+D:\Projetos\localizateste\LocalizaTeste\Localiza.web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projetos\localizateste\LocalizaTeste\Localiza.web\bin\Debug\netcoreapp3.1\Localiza.BLL.dll
+D:\Projetos\localizateste\LocalizaTeste\Localiza.web\bin\Debug\netcoreapp3.1\Localiza.Model.dll
+D:\Projetos\localizateste\LocalizaTeste\Localiza.web\bin\Debug\netcoreapp3.1\Localiza.BLL.pdb
+D:\Projetos\localizateste\LocalizaTeste\Localiza.web\bin\Debug\netcoreapp3.1\Localiza.Model.pdb
+D:\Projetos\localizateste\LocalizaTeste\Localiza.web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs

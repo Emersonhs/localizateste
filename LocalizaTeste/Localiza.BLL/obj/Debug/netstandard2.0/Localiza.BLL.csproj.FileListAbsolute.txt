@@ -1,0 +1,12 @@
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\bin\Debug\netstandard2.0\Localiza.BLL.deps.json
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\bin\Debug\netstandard2.0\Localiza.BLL.dll
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\bin\Debug\netstandard2.0\Localiza.BLL.pdb
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\bin\Debug\netstandard2.0\Localiza.Model.dll
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\bin\Debug\netstandard2.0\Localiza.Model.pdb
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\obj\Debug\netstandard2.0\Localiza.BLL.csprojAssemblyReference.cache
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\obj\Debug\netstandard2.0\Localiza.BLL.AssemblyInfoInputs.cache
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\obj\Debug\netstandard2.0\Localiza.BLL.AssemblyInfo.cs
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\obj\Debug\netstandard2.0\Localiza.BLL.csproj.CoreCompileInputs.cache
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\obj\Debug\netstandard2.0\Localiza.BLL.csproj.CopyComplete
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\obj\Debug\netstandard2.0\Localiza.BLL.dll
+D:\Projetos\localizateste\LocalizaTeste\Localiza.BLL\obj\Debug\netstandard2.0\Localiza.BLL.pdb

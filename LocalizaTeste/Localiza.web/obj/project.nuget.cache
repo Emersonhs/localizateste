@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RQhINVG3RGtVHYdzhw66A/ScLvC7k3SGK6Ww2jigQf/eWoizw3U9bid66X2bt5aqT/DFZqAGpCbKVP/yMB/jfg==",
+  "dgSpecHash": "80aaXf1aeo99RHv9HaueQ3BDiBuSRZvmnOJS0+aWu/Z6HX077/n9apBcRAM9DBbaIUO6g6YLyg1ewJknIxS2cQ==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\localizateste\\LocalizaTeste\\Localiza.web\\Localiza.web.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\emerson\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\emerson\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\emerson\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\emerson\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\emerson\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\emerson\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\emerson\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
